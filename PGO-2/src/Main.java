@@ -19,6 +19,7 @@ public class Main {
         stg.dodajStudenta(st1);
         stg.dodajStudenta(st2);
 
+        
         double sr1 =st1.obliczanieSredniej();
         System.out.println(sr1);
         double sr2 =st2.obliczanieSredniej();
